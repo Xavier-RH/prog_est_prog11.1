@@ -17,9 +17,9 @@ Presenta el uso de:
 
 <b>Objetivo:</b> Hacer uso del Operador ternario para hacer evaluciaciones de condiciones
 
-<p><b>Breve descripcion:</b>
-Programa para una tienda de Arduinos, en dicha Tienda existe una promocion
-Si se llevan minimo 5 arduinos, se le hace el 20% de descuento
-Cada Arduino tiene un costo de $350.00
+<p><b>Breve descripcion:</b><br>
+Programa para una tienda de Arduinos, en dicha Tienda existe una promocion<br>
+Si se llevan minimo 5 arduinos, se le hace el 20% de descuento<br>
+Cada Arduino tiene un costo de $350.00<br>
 El programa pedira la cantidad de arduinos y calculara el total a pagar
 </p>
